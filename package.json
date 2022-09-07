@@ -1,0 +1,22 @@
+{
+  "name": "swaggerlearnings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kumarpint00",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "lowdb": "^3.0.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19",
+    "swagger-ui-express": "^4.5.0",
+    "yamljs": "^0.3.0"
+  }
+}
